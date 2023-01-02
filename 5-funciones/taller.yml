@@ -1,0 +1,4 @@
+Taller
+Para la aplicación de los conceptos aprendidos dentro de esta introduccion a python vamos a realizar un taller que integre todos estos conceptos.
+
+Se requiere una calculadora que permita hacer las 4 operaciones basicas, que pida los numeros y el operador por consola y no pare de realizar las operaciones hasta que se diga la palabra "exit".
