@@ -1,0 +1,14 @@
+Realizar un programa que abra un archivo de Excel con el nombre "Trabajadores", el archivo debe estar vacío al inicio. 
+
+Luego de recorrido el programa el archivo debe contar con tres columnas que deben tener la siguiente información
+
+    Columna 1:
+    Nombre completo del trabajador
+
+    Columna 2:
+    Ciudad del trabajador
+
+    Columna 3:
+    Teléfono del trabajador
+
+El archivo debe contar con 10 filas como mínimo
