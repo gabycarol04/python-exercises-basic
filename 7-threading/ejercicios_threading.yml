@@ -1,0 +1,10 @@
+1.Crea una función llamada Contador que contenga un atributo que sea un contador,
+otro que sea el nombre del hilo y otro que sea el limite del contador, es decir, donde debe acabar. Crea 6 contadores y ejecútalos. Debe mostrar por pantalla el nombre de cada hilo y en que cuenta va
+
+2.Crear dos hilos que corran una carrera, existe una probabilidad del 25% de que no avance el hilo. Implementar que se muestre por pantalla cual hilo llego primero a la meta y que se vea todo el tiempo cuanto a avanzado.
+
+3.Crear 3 hilos que sumen cada uno un valor aleatorio en una variable hasta llegar a 5000. Mostrar por pantalla cuanto suma cada uno.
+
+4.Diseñar e implementar una solución no concurrente vs. concurrente para determinar si un número es primo;
+
+5.Crear un programa que cree dos hilos. Un hilo va a estar generando números aleatorios de 1 a 100, el otro hilo va a estar revisando que valores se generan. Al hilo que revisa, se le pasa cómo argumento un valor que en caso de aparecer en el hilo que genera números, finaliza el programa. Por ultimo se imprime en pantalla la cantidad de números generados.
