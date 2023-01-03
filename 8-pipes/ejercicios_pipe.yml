@@ -1,0 +1,4 @@
+##### Continuando el de Threading
+5.Crear un programa que cree dos hilos. Un hilo va a estar generando números aleatorios de 1 a 100, el otro hilo va a estar revisando que valores se generan. Al hilo que revisa, se le pasa cómo argumento un valor que en caso de aparecer en el hilo que genera números, finaliza el programa. Por ultimo se imprime en pantalla la cantidad de números generados.
+
+6.Implemente el punto anterior con pipes
