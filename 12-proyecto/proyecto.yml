@@ -1,0 +1,23 @@
+Como un proyecto de muestra para hacer una recopilacion de todos los conceptos
+
+vistos a lo largo del curso vamos a realizar lo siguiente:
+
+Se requiere el manejo de una hoja de excel donde se esta 
+almacenando la informacion de algunos usuarios de un aplicativo. 
+
+
+Para poder acceder al archivo se debe tener un entorno en consola que permita 
+hacer las 4 acciones basicas (Crear,editar,eliminar,visualizar)
+permitiendo al usuario elegir en primera instancia el archivo que quiere editar, 
+luego puede seleccionar la hoja donde va a trabajar y por ultimo se le muestra las
+acciones que se pueden hacer sobre la misma.
+
+El usuario puede hacer el numero de acciones que quiera mientras no ingrese la palabra
+exit en la consola.
+
+Por ultimo se solicita un registro de las acciones que realiza el usuario almacenadas
+en un txt al momento de salir del entorno.
+
+Como proyecto individual de cada uno deben re hacer el proyecto pero
+usando sql en vez de manejo de un archivo de excel. 
+Adicionalmente el programa debe permitir cambiar entre bases de datos y tablas
