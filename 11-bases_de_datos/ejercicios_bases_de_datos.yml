@@ -1,0 +1,13 @@
+Como primer paso vamos a ejecutar el script de creación de la base de datos.
+
+Luego de tener la base de datos ya creada, vamos a realizar un script de Python que me muestre por consola las siguientes consultas:
+
+Lista el nombre de todos los productos que hay en la tabla producto.
+
+Lista los nombres y los precios de todos los productos de la tabla producto.
+
+Lista todas las columnas de la tabla producto.
+
+Lista el nombre y el precio del producto más barato.
+
+Lista los nombres de los fabricantes cuyo nombre sea de 4 caracteres.
